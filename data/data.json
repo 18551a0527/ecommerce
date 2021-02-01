@@ -1,0 +1,27 @@
+{
+	"mobiles":[
+    {
+    	"name":"samsung m31s",
+    	"image":"img/Samsung-Galaxy-M31s-1200-1.jpg",
+    	"originalPrice":18000,
+    	"price":17999
+    },{
+    	"name":"redmi 5 pro max",
+    	"image":"img/redmi-note-5-pro.jpg",
+    	"originalPrice":15000,
+    	"price":14999
+    },{"name":"realme 5 pro",
+    	"image":"img/realme_5pro.jpg",
+    	"originalPrice":17000,
+    	"price":16999
+    },{"name":"vivo v20se",
+    	"image":"img/vivov20se-83.jpg",
+    	"originalPrice":20000,
+    	"price":19999
+    },{"name":"oneplus nord",
+    	"image":"img/oneplus_nord.jpg",
+    	"originalPrice":33000,
+    	"price":32999
+    }
+	]
+}
